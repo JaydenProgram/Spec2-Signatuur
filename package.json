@@ -1,9 +1,9 @@
 {
   "name": "signatuur-website",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/JaydenProgram/Spec2-Signatuur",
+  "homepage": "https://jaydenprogram.github.io/Spec2-Signatuur/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
